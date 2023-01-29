@@ -16,8 +16,7 @@ Artworks Created:
 
 |        FILENAME        |        SETTINGS        |        VALUE        |
 |------------------------|------------------------|---------------------|
-|     NAME               | setup <br/> density <br/> one-two-proportion <br/> sum-0 <br/> sum-1 <br/> sum-2 <br/> sum-3 <br/> sum-4 <br/> sum-5 <br/> sum-6 <br/> ask-x <br/> ask-y <br/> x1 <br/> y1 <br/> x2 <br/> y2 <br/> color-zero <br/> color-one <br/> color-two |50% <br/> 50 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 1 <br/> 1 <br/> 1 <br/> 1 <br/> 1 <br/> 1 <br/> 90 <br/> 90 <br/> 90               |
-|     NAME               | setup <br/> density <br/> one-two-proportion <br/> sum-0 <br/> sum-1 <br/> sum-2 <br/> sum-3 <br/> sum-4 <br/> sum-5 <br/> sum-6 <br/> ask-x <br/> ask-y <br/> x1 <br/> y1 <br/> x2 <br/> y2 <br/> color-zero <br/> color-one <br/> color-two | 50% <br/> 50 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 1 <br/> 1 <br/> 1 <br/> 1 <br/> 1 <br/> 1 <br/> 90 <br/> 90 <br/> 90               |
+|     NAME               | <br/> setup <br/> density <br/> one-two-proportion <br/> sum-0 <br/> sum-1 <br/> sum-2 <br/> sum-3 <br/> sum-4 <br/> sum-5 <br/> sum-6 <br/> ask-x <br/> ask-y <br/> x1 <br/> y1 <br/> x2 <br/> y2 <br/> color-zero <br/> color-one <br/> color-two |50% <br/> 50 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 0 <br/> 1 <br/> 1 <br/> 1 <br/> 1 <br/> 1 <br/> 1 <br/> 90 <br/> 90 <br/> 90               |
 
 
       
