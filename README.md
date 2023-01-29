@@ -21,7 +21,7 @@ MEMBERS:
 ### CA 1D Elementary
 [Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Elementary.nlogo)
 
-**Description:** Modifications done mainly<br>revolved around in the do-rule function where specific color and positioning of each shape were set.
+**Description:** Modifications done mainly revolved around in the do-rule function where specific color and positioning of each shape were set.
 
 ### CA 1D Totalistic
 [Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Totalistic.nlogo)
