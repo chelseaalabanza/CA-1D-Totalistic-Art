@@ -12,6 +12,8 @@ MEMBERS:
 ### CA 1D Rule 250
 [Source Code](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Simple%20Examples/CA%201D%20Rule%20250.nlogo)
 
+Description:
+
 Modified Functions: 
 - do-rule
 - setup-continue (deleted)
@@ -19,8 +21,12 @@ Modified Functions:
 ### CA 1D Elementary
 [Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Elementary.nlogo)
 
+Description:
+
 ### CA 1D Totalistic
 [Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Totalistic.nlogo)
+
+Description: The helper functions in the original code performed long division in base 3. In the modified version, it was changed to base 5. Other than this, one of the main changes made to the code was under the do-rule function. The coordinates provided in the original code were fixed while in the modified version, sliders were used to allow a variety of artworks to be created.
 
 Modified Functions: 
 - setup-random
