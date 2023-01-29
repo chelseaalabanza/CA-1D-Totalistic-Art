@@ -13,11 +13,11 @@ Modified Functions:
 
 Artworks Created:
 - Filename
-> Configuration
-Setup Single / Setup Random
-density
-one-two-proportion
-sum-0
+> Configuration:
+- Setup Single / Setup Random
+- density
+- one-two-proportion
+- sum-0
 sum-1
 sum-2
 sum-3
