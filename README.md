@@ -9,6 +9,11 @@ MEMBERS:
 - ALVAREZ, BRYAN KAHLIL G.
 - ANTONIO, LUCIANA FRANCESCA B.
 
+### CA 1D Elementary
+[Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Elementary.nlogo)
+
+**Description:** In the modified version of the Elementary CA code, the rules were changed. You can find the new rules below.
+
 ### CA 1D Rule 250
 [Source Code](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Simple%20Examples/CA%201D%20Rule%20250.nlogo)
 
@@ -17,11 +22,6 @@ MEMBERS:
 **Modified Functions:** 
 - do-rule
 - setup-continue (deleted)
-
-### CA 1D Elementary
-[Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Elementary.nlogo)
-
-**Description:** In the modified version of the Elementary CA code, the rules were changed. You can find the new rules below.
 
 ### CA 1D Totalistic
 [Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Totalistic.nlogo)
