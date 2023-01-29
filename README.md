@@ -1,2 +1,4 @@
-# CA-1D-Totalistic-Art
- This is a modified version of a CA 1D Totalistic source code from NetLogo Web. 
+# Cellular-Automatum-3
+
+##Making Art with CAs
+This is a collection of modified versions of a cellular automata source codes from NetLogo Web. 
