@@ -12,6 +12,18 @@ MEMBERS:
 ### CA 1D Rule 250
 [Source Code](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Simple%20Examples/CA%201D%20Rule%20250.nlogo)
 
+Modified Functions: 
+- do-rule
+- setup-continue (deleted)
+
+Artworks Created:
+
+| SETTING     |     | VALUE |
+|-------------|-----|-------|
+| Rule250.png | N/A | N/A   |
+
+Description: Modifications done mainly revolved around in the do-rule function where specific color and positioning of each mountain/triangle were set.
+
 ### CA 1D Elementary
 [Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Elementary.nlogo)
 
