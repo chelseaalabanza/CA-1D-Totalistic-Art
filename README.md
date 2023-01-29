@@ -2,7 +2,7 @@
 
 This is a collection of modified versions of CA source codes from NetLogo Web. 
 
-### CA Rule 250
+### CA 1D Rule 250
 [Source Code](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Simple%20Examples/CA%201D%20Rule%20250.nlogo)
 
 ### CA 1D Elementary
