@@ -2,6 +2,9 @@
 
 This is a collection of modified versions of CA source codes from NetLogo Web. 
 
+### CA 1D Elementary
+[Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Elementary.nlogo)
+
 ### CA 1D Totalistic
 [Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Totalistic.nlogo)
 
@@ -23,6 +26,3 @@ Artworks Created:
 |     **totalistic-5 folder** <br/> *(set of optical <br/> illusions - <br/> "go" button was <br/> clicked 5 times)*                                                                                                                     | max-pxcor <br/> max-pycor <br/> <br/>                                                                                                                                  setup <br/> density <br/> one-two-proportion <br/> <br/> code <br/>                                                                                                    sum-0 <br/> sum-1 <br/> sum-2 <br/> sum-3 <br/> sum-4 <br/> sum-5 <br/> sum-6 <br/> <br/>                                                                              ask-x <br/> ask-y <br/>       x1 <br/> y1 <br/>       x2 <br/> y2 <br/><br/>                                                                                            color-zero <br/> color-one <br/> color-two           |                                                                                                                                                                                                                                                                                          50 <br/> 50 <br/><br/>                                                                                                                                                  single <br/> 269% <br/> 36 <br/><br/> 1560 <br/>                                                                                                                        0 <br/> 2 <br/> 2 <br/> 2 <br/> 2 <br/> 0 <br/> 0 <br/><br/>                                                                                                            1 <br/> -1 <br/>        0 <br/> 2        <br/> 1 <br/> 1 <br/><br/>                                                                                                    9 <br/> 13 <br/> 13               |
 
       
-
-### CA 1D Elementary
-[Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Elementary.nlogo)
