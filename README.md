@@ -14,8 +14,9 @@ Modified Functions:
 
 Artworks Created:
 
-Filename  | Settings  | Value
-name  | setup | Single
+|     Filename    |     Settings    |     Value     |
+|-----------------|-----------------|---------------|
+|     name  | setup | Single
       | density | 50%
       | one-two-proportion | 50
       | sum-0 | 0
