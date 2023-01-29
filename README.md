@@ -21,7 +21,7 @@ MEMBERS:
 ### CA 1D Elementary
 [Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Elementary.nlogo)
 
-**Description:** In the modified version of the Elementary CA code, the rules were changed. You can find the new rules below.
+**Description:** In the modified version of the Elementary CA code, only the rules were changed. You can find the new rules below.
 
 ### CA 1D Totalistic
 [Source Code](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/CA%201D%20Totalistic.nlogo)
